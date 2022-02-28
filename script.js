@@ -6,8 +6,9 @@ $.getScript( "https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.caro
         margin: 20,
         loop: true,
         autoWidth:true,
-        items: 2,
+        items: 4,
         center: true,
+        
     })
 
    
